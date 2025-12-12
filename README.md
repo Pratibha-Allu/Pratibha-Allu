@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratibha-allu&label=Profile%20views&color=0e75b6&style=flat" alt="pratibha-allu" /> </p>
 
-- 🌱 I’m currently learning **react js**
+- 🌱 I’m currently learning **java full stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pratibha-Allu](https://github.com/Pratibha-Allu)
 
